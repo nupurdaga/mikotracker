@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.logo{width: 100px;}
+.main_wrap{width: 100%;text-align: center;margin-top: 30px;}
+.table_wrap{display: block;margin: 25px;}
+.MuiFormGroup-root{display: block !important;}
+.makeStyles-formControl-1{margin: 24px !important;
+    border: 1px solid #eee !important;
+    padding: 20px !important;}
+.button_wrap{margin-top: 20px;}
+.input_wrap{    width: 300px;display: inline-block;}
+.MuiTableCell-alignLeft{white-space: pre-wrap;}
